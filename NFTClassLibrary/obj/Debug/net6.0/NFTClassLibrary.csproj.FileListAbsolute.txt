@@ -1,0 +1,12 @@
+E:\NFTApplication\NFTClassLibrary\obj\Debug\net6.0\NFTClassLibrary.csproj.AssemblyReference.cache
+E:\NFTApplication\NFTClassLibrary\obj\Debug\net6.0\NFTClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\NFTApplication\NFTClassLibrary\obj\Debug\net6.0\NFTClassLibrary.AssemblyInfoInputs.cache
+E:\NFTApplication\NFTClassLibrary\obj\Debug\net6.0\NFTClassLibrary.AssemblyInfo.cs
+E:\NFTApplication\NFTClassLibrary\obj\Debug\net6.0\NFTClassLibrary.csproj.CoreCompileInputs.cache
+E:\NFTApplication\NFTClassLibrary\bin\Debug\net6.0\NFTClassLibrary.deps.json
+E:\NFTApplication\NFTClassLibrary\bin\Debug\net6.0\NFTClassLibrary.dll
+E:\NFTApplication\NFTClassLibrary\bin\Debug\net6.0\NFTClassLibrary.pdb
+E:\NFTApplication\NFTClassLibrary\obj\Debug\net6.0\NFTClassLibrary.dll
+E:\NFTApplication\NFTClassLibrary\obj\Debug\net6.0\refint\NFTClassLibrary.dll
+E:\NFTApplication\NFTClassLibrary\obj\Debug\net6.0\NFTClassLibrary.pdb
+E:\NFTApplication\NFTClassLibrary\obj\Debug\net6.0\ref\NFTClassLibrary.dll

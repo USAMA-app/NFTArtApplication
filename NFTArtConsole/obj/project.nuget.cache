@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "WCqEZrHFvtpPu9lhbxlhLDZlgvCtLLhdJ8jmjHAfhtJkTbrnDjMiSs/gXDoVG+F2qqrbYyBYIeTDyOgY5u8K0A==",
+  "success": true,
+  "projectFilePath": "E:\\NFTApplication\\NFTArtConsole\\NFTArtConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Naveed Ekram\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
+    "C:\\Users\\Naveed Ekram\\.nuget\\packages\\ether.weightedselector\\1.2.0\\ether.weightedselector.1.2.0.nupkg.sha512",
+    "C:\\Users\\Naveed Ekram\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Naveed Ekram\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Naveed Ekram\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "C:\\Users\\Naveed Ekram\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

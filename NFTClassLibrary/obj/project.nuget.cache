@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "mIuF80wiri7KpjyV7Bosfd6KCTl2xIYtcXcljnIubOCoZmMC/FFSIqR/INfXquUxWFZhFo37xNcrSrN564yhJg==",
+  "success": true,
+  "projectFilePath": "E:\\NFTApplication\\NFTClassLibrary\\NFTClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Naveed Ekram\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
+    "C:\\Users\\Naveed Ekram\\.nuget\\packages\\ether.weightedselector\\1.2.0\\ether.weightedselector.1.2.0.nupkg.sha512",
+    "C:\\Users\\Naveed Ekram\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Naveed Ekram\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Naveed Ekram\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512",
+    "C:\\Users\\Naveed Ekram\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "C:\\Users\\Naveed Ekram\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
